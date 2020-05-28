@@ -1,0 +1,58 @@
+<div class="Enjoy">
+	<div class="Enjoyy">
+	<h1>Enjoy Your Stay</h1>
+	<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor, eligendi laboriosam. Repellendus officia harum
+	eaque.</p>
+	<a href="#">About Our Hotel</a>
+</div>
+</div>
+
+
+
+.Enjoy{
+	background-image: url('img/showcase.jpg');
+	height: 1289px;
+	width: 1920px;
+	text-align: center;
+	
+}
+.Enjoyy{
+	position: relative;
+	top:50%;
+	right:50%;
+	left: 50%;
+	bottom: 50%;
+	font-size: 150%;
+}
+
+
+
+
+
+
+
+
+
+
+<div class="blockii">
+	<img src="img/hotel.png" height="70" width="70">
+	<p>Lorem, ipsum dolor sit amet
+	consectetur adipisicing elit. Ut,
+	omnis?</p>
+</div>
+<div class="blockii">
+	
+	<div class="meal">
+	<img src="img/meal.jpg" height="70" width="70">
+	<p>Lorem, ipsum dolor sit amet
+	consectetur adipisicing elit. Ut,
+	omnis?</p>
+
+</div>
+</div>
+<div class="blockii">
+	<img src="img/dumbell.png" height="70" width="70">
+	<p>Lorem, ipsum dolor sit amet
+	consectetur adipisicing elit. Ut,
+	omnis?</p>
+</div>
