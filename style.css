@@ -68,7 +68,7 @@ body{
 
 .blocki img{
 	
-	object-fit: cover;
+	object-fit: auto;
 }
 
 .blockiii{
