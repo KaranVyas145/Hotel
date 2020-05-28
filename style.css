@@ -38,10 +38,10 @@ body{
 	
 }
 .Enjoyy{
-	position: absolute;
+	position: relative;
 	vertical-align: middle;
 	font-size: 200%;
-	top: 50%;
+	top: 35%;
 	color: #fff;
 }
 
